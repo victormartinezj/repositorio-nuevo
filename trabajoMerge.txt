@@ -1,5 +1,5 @@
 a. uno
 b. dos
 c. tres
-d. cuatro
-e. cinco
+d. la letra d
+e. la letra e
