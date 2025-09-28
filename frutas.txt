@@ -1,8 +1,8 @@
 1. manzana
 2. plátano
 3. fresa
-4. sandía
-5. melón
+4. sandia
+5. mandarina
 6. mango
 7. guayaba
 8. durazno
