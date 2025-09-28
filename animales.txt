@@ -1,6 +1,6 @@
 1. perro
 2. gato
-3. águila
+3. koala
 4. leon
 5. tigre
 6. oso
@@ -8,3 +8,4 @@
 8. zorro
 9. lobo
 10. conejo
+11. tocororo
