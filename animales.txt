@@ -1,0 +1,10 @@
+1. perro
+2. gato
+3. elefante
+4. leon
+5. tigre
+6. oso
+7. mono
+8. zorro
+9. rata
+10. conejo

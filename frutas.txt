@@ -1,0 +1,10 @@
+1. manzana
+2. plátano
+3. fresa
+4. naranja
+5. piña
+6. mango
+7. guayaba
+8. durazno
+9. ciruela
+10. limón
