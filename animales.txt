@@ -8,3 +8,5 @@
 8. zorro
 9. lobo
 10. conejo
+11. cocodrilo
+12. jaguar
