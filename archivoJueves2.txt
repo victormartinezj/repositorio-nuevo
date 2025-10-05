@@ -1,2 +1,3 @@
 Texto segundo archivo del jueves línea 1
 Texto segundo archivo del jueves línea 2
+Texto de stash archivo del domingo
